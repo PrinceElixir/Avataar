@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Lenovo\Desktop\Project2\Main.cpp(94,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Project2\Main.cpp(95,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\Project2\Main.cpp(246,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Project2.vcxproj -> C:\Users\Lenovo\Desktop\Project2\x64\Debug\Project2.exe
